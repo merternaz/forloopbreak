@@ -1,0 +1,15 @@
+C:\Users\MONSTER\GitProject\forLoopBreak\bin\Debug\net7.0\forLoopBreak.exe
+C:\Users\MONSTER\GitProject\forLoopBreak\bin\Debug\net7.0\forLoopBreak.deps.json
+C:\Users\MONSTER\GitProject\forLoopBreak\bin\Debug\net7.0\forLoopBreak.runtimeconfig.json
+C:\Users\MONSTER\GitProject\forLoopBreak\bin\Debug\net7.0\forLoopBreak.dll
+C:\Users\MONSTER\GitProject\forLoopBreak\bin\Debug\net7.0\forLoopBreak.pdb
+C:\Users\MONSTER\GitProject\forLoopBreak\obj\Debug\net7.0\forLoopBreak.csproj.AssemblyReference.cache
+C:\Users\MONSTER\GitProject\forLoopBreak\obj\Debug\net7.0\forLoopBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\GitProject\forLoopBreak\obj\Debug\net7.0\forLoopBreak.AssemblyInfoInputs.cache
+C:\Users\MONSTER\GitProject\forLoopBreak\obj\Debug\net7.0\forLoopBreak.AssemblyInfo.cs
+C:\Users\MONSTER\GitProject\forLoopBreak\obj\Debug\net7.0\forLoopBreak.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\GitProject\forLoopBreak\obj\Debug\net7.0\forLoopBreak.dll
+C:\Users\MONSTER\GitProject\forLoopBreak\obj\Debug\net7.0\refint\forLoopBreak.dll
+C:\Users\MONSTER\GitProject\forLoopBreak\obj\Debug\net7.0\forLoopBreak.pdb
+C:\Users\MONSTER\GitProject\forLoopBreak\obj\Debug\net7.0\forLoopBreak.genruntimeconfig.cache
+C:\Users\MONSTER\GitProject\forLoopBreak\obj\Debug\net7.0\ref\forLoopBreak.dll
